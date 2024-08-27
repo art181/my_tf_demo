@@ -1,7 +1,7 @@
 
 # Key Benefits of Infrastructure as Code (IaC) for Startups
 
-This document, and sample Terraform deplyment, outlines the critical benefits that Infrastructure as Code (IaC) offers to Phase-1 startups. The key points include scalability, vendor agnosticism, efficiency, security, and observability. The Terraform plans are minimal on purpose to demonstrate the power and simplicity of IaC. The deployments in /infra show two corresponding HCP Workspaces /AWS and /GCP  to demostrate a vendor agnogtic approach and show planned cost estimates for comparision. 
+This document, and sample Terraform deployment, outlines the critical benefits that Infrastructure as Code (IaC) offers to Phase-1 startups. The key points include scalability, vendor agnosticism, efficiency, security, and observability. The Terraform plans are minimal on purpose to demonstrate the power and simplicity of IaC. The deployments in /infra show two corresponding HCP Workspaces /AWS and /GCP  to demostrate a vendor agnogtic approach and show planned cost estimates for comparision. 
 
 ## 1. Startups Need IaC to Get to Market Fast and Economically
 IaC not only accelerates time-to-market but also provides scalability and flexibility, allowing startups to scale as they grow. Using tools like Terraform enables modular configurations, cost estimates, and tracking, integrating with cost management solutions (like AWS Cost Explorer or GCP’s Cost Management) to streamline processes.
